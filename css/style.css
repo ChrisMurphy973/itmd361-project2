@@ -115,6 +115,7 @@ body{
     width: 1000px;
     height: 200px;
     text-align: justify;
+    white-space: normal;
 }
 .contacts{
     border: 1px #929292;
