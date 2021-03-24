@@ -33,6 +33,12 @@ p, li{
     color: #fcd557;
     margin: 0em;
 }
+.title4{
+    font-family:'Cairo', sans-serif;
+    font-size: 1.6875em;
+    color: #fcd557;
+    margin: 0em;
+}
 #wrapper {
     width: 85.25em;
     margin: auto;
