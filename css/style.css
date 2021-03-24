@@ -31,6 +31,12 @@ p, li{
     width: 85.25em;
     margin: auto;
 }
+head{
+    background-color: #929292;
+}
+body{
+    background-color: #929292;
+}
   /* navbar */
 #main-navbar
 {
