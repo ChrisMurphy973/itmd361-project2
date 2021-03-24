@@ -141,8 +141,9 @@ body{
 }
 #profile{
     margin-bottom: 1em;
-    height: 10%;
-    width: 10%;
+    height: 30%;
+    width: 30%;
+    float: right;
 }
 
 /* hobbies */
