@@ -100,7 +100,7 @@ body{
     float: right;
     position: relative; 
     top: -9em;
-    right: 50em;
+    right: -50em;
   }
 .aboutme-section{
     border: 1px #929292;
