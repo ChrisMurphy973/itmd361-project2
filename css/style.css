@@ -1,10 +1,10 @@
 p, li{ 
     color: #303030;
 }
-.dfont {
-    font-family: 'Noto Sans SC', sans-serif;
+.default-font {
+    font-family: 'Crimson Text', serif;
 }
-.talign { 
+.title-align { 
     margin: 0em;
     text-align: center;
 }
@@ -16,9 +16,15 @@ p, li{
     clear: both;
 }
 .title{ 
-    font-family: 'Kaushan Script', cursive;
+    font-family:'Cairo', sans-serif;
     font-size: 4.6875em;
-    color: #30BFBF;
+    color: #fcd557;
+    margin: 0em;
+}
+.title2{ 
+    font-family:'Cairo', sans-serif;
+    font-size: 3.6875em;
+    color: #fcd557;
     margin: 0em;
 }
 #wrapper {
