@@ -102,7 +102,13 @@ body{
     top: -9em;
     right: 3em;
   }
-
+.aboutme-section{
+    border: 1px #929292;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    text-align: justify;
+}
 /* resume */
 
 /* hobbies */
