@@ -115,15 +115,23 @@ body{
 .resize-photo{
     height: 590;
     width: 920;
-  }
-  .image-container{
+}
+.image-container{
     float: right;
     position: relative;
     height: auto;
     width: 50%;
-  }
-  .imagesr{
+}
+.imagesr{
     float: right;
     position: relative;
     right: -4em;
-  }
+}
+#hobbies{
+    position: fixed;
+    background-color:#929292;
+    padding: 1em;
+    font-size: 0.7em;
+    font-size: 0.8vw;
+    width: 50%;
+}
