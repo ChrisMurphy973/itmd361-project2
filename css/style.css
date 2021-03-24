@@ -99,9 +99,7 @@ body{
 #robotimage{
     float: right;
     position: relative; 
-    top: -11em;
-    right: -30em;
-    
+    border-radius: 8px;
 }
 .aboutme-section{
     border: 1px #929292;
