@@ -134,8 +134,8 @@ body{
 }
 #profile{
     margin-bottom: 1em;
-    height: 25%;
-    width: 25%;
+    height: 10%;
+    width: 10%;
 }
 
 /* hobbies */
@@ -154,8 +154,8 @@ body{
     position: relative;
     right: -4em;
 }
-#hobbies{
-    position: fixed;
+.hobbies{
+    position: relative;
     background-color:#929292;
     padding: 1em;
     font-size: 0.7em;
