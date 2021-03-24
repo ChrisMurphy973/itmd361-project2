@@ -117,6 +117,25 @@ body{
     text-align: justify;
 }
 /* resume */
+.education{
+    position: relative;
+    margin-bottom: 1em;
+    height: 24em;
+    width: 30em;
+  }
+.extras{
+    float: right;
+    position: relative;
+    height: 19em;
+    width: 30em;
+    right: 10em;
+    top: -56.5em;
+}
+#profile{
+    margin-bottom: 1em;
+    height: 25%;
+    width: 25%;
+  }
 
 /* hobbies */
 .resize-photo{
