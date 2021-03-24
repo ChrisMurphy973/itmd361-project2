@@ -100,6 +100,7 @@ body{
     float: right;
     position: relative; 
     border-radius: 8px;
+    margin-left: 1%;
 }
 .aboutme-section{
     border: 1px #929292;
@@ -132,10 +133,10 @@ body{
 .extras{
     float: right;
     position: relative;
-    height: 19em;
+    /*height: 19em;
     width: 30em;
     right: 10em;
-    top: -55em;
+    top: -55em;*/
 }
 #profile{
     margin-bottom: 1em;
