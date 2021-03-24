@@ -101,6 +101,9 @@ body{
     position: relative; 
     top: -9em;
     right: -50em;
+    height: 45%;
+    width: 45%;
+    
   }
 .aboutme-section{
     border: 1px #929292;
