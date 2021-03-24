@@ -160,7 +160,7 @@ body{
     right: -4em;
 }
 #hobbytext{
-    position: relative;
+    position: fixed;
     background-color:#929292;
     padding: 1em;
     font-size: 0.7em;
