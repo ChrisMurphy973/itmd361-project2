@@ -1,0 +1,64 @@
+/* navbar */
+#main-navbar
+{
+	background-color: #fcd557;
+	overflow: hidden;
+	width: 100%;
+}
+
+#navbar-container
+{
+	float: left;
+	width: 100%;
+	position: relative;
+}
+
+#main-navbar ul
+{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+    left: 50%;
+ 	float: left;
+ 	position: relative;
+}
+
+#main-navbar ul li
+{
+    display: block;
+ 	float: left;
+ 	right: 50%;
+ 	position: relative;
+}
+
+#main-navbar ul li a
+{
+	display: block;
+	padding: 20px 20px;
+	color: rgb(34, 34, 34);
+	text-decoration: none;
+  font-size: x-large;
+}
+
+
+#main-navbar ul li a:hover
+{
+	background-color: #929292;
+}
+
+/* hobbies */
+.resize-photo{
+    height: 590;
+    width: 920;
+  }
+  .image-container{
+    float: right;
+    position: relative;
+    height: auto;
+    width: 50%;
+  }
+  .imagesr{
+    float: right;
+    position: relative;
+    right: -4em;
+  }
