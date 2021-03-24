@@ -12,9 +12,9 @@ p, li{
     display: flex;
     justify-content: center;
 }
-.floatclear{
+/*.floatclear{
     clear: both;
-}
+}*/
 .title{ 
     font-family:'Cairo', sans-serif;
     font-size: 4.6875em;
@@ -162,7 +162,7 @@ body{
     position: relative;
     right: -4em;
 }
-.hobbies{
+#hobbytext{
     position: relative;
     background-color:#929292;
     padding: 1em;
