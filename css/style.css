@@ -105,14 +105,14 @@ body{
     padding: 10px;
     width: 1000px;
     height: 1000px;
-    text-align: justify;
+    text-align: center;
 }
 .center{
     border: 1px #929292;
     padding: 10px;
     width: 1000px;
     height: 200px;
-    text-align: justify;
+    text-align: center;
     white-space: normal;
 }
 .contacts{
@@ -120,7 +120,7 @@ body{
     padding: 10px;
     width: 1000px;
     height: 1000px;
-    text-align: left;
+    text-align: center;
 }
 /* resume */
 .education{
@@ -132,7 +132,7 @@ body{
 .extras{
     float: right;
     position: relative;
-    right: 1em;
+    right: 4em;
     bottom: 20em;
 }
 #profile{
