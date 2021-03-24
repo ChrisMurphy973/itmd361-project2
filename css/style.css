@@ -102,7 +102,7 @@ body{
     top: -9em;
     right: -50em;
     
-  }
+}
 .aboutme-section{
     border: 1px #929292;
     padding: 10px;
@@ -123,7 +123,7 @@ body{
     margin-bottom: 1em;
     height: 24em;
     width: 30em;
-  }
+}
 .extras{
     float: right;
     position: relative;
@@ -136,7 +136,7 @@ body{
     margin-bottom: 1em;
     height: 25%;
     width: 25%;
-  }
+}
 
 /* hobbies */
 .resize-photo{
