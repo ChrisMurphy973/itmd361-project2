@@ -27,6 +27,12 @@ p, li{
     color: #fcd557;
     margin: 0em;
 }
+.title3{
+    font-family:'Cairo', sans-serif;
+    font-size: 3.1875em;
+    color: #fcd557;
+    margin: 0em;
+}
 #wrapper {
     width: 85.25em;
     margin: auto;
@@ -84,6 +90,12 @@ body{
 	background-color: #929292;
 }
 /* index */
+#robotimage{
+    float: right;
+    position: relative; 
+    top: -9em;
+    right: 3em;
+  }
 
 /* resume */
 
