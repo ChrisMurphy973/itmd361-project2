@@ -99,8 +99,8 @@ body{
 #robotimage{
     float: right;
     position: relative; 
-    top: -9em;
-    right: -50em;
+    top: -11em;
+    right: -30em;
     
 }
 .aboutme-section{
@@ -111,6 +111,13 @@ body{
     text-align: justify;
 }
 .center{
+    border: 1px #929292;
+    padding: 10px;
+    width: 1000px;
+    height: 1000px;
+    text-align: justify;
+}
+.contacts{
     border: 1px #929292;
     padding: 10px;
     width: 1000px;
