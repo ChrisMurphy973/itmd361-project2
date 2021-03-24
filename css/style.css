@@ -103,23 +103,18 @@ body{
 .aboutme-section{
     border: 1px #929292;
     padding: 10px;
-    width: 1000px;
     height: 1000px;
     text-align: center;
 }
 .center{
     border: 1px #929292;
     padding: 10px;
-    width: 1000px;
-    height: 200px;
     text-align: center;
     white-space: normal;
 }
 .contacts{
     border: 1px #929292;
     padding: 10px;
-    width: 1000px;
-    height: 1000px;
     text-align: center;
 }
 /* resume */
