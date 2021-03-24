@@ -122,7 +122,7 @@ body{
     padding: 10px;
     width: 1000px;
     height: 1000px;
-    text-align: justify;
+    text-align: left;
 }
 /* resume */
 .education{
@@ -135,7 +135,7 @@ body{
     float: right;
     position: relative;
     right: 1em;
-    bottom: 5em;
+    bottom: 20em;
 }
 #profile{
     margin-bottom: 1em;
