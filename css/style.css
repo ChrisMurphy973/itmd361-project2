@@ -1,4 +1,31 @@
-/* navbar */
+p, li{ 
+    color: #303030;
+}
+.dfont {
+    font-family: 'Noto Sans SC', sans-serif;
+}
+.talign { 
+    margin: 0em;
+    text-align: center;
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+.floatclear{
+    clear: both;
+}
+.title{ 
+    font-family: 'Kaushan Script', cursive;
+    font-size: 4.6875em;
+    color: #30BFBF;
+    margin: 0em;
+}
+#wrapper {
+    width: 85.25em;
+    margin: auto;
+}
+  /* navbar */
 #main-navbar
 {
 	background-color: #fcd557;
