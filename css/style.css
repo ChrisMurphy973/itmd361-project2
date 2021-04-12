@@ -101,6 +101,8 @@ body{
     float: right;
     border-radius: 8px;
     position: relative;
+    width: 1024px;
+    height: 576px;
 }
 .aboutme-section{
     border: 1px #929292;
