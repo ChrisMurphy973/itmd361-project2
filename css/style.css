@@ -156,8 +156,6 @@ body{
     float: right;
     position: relative;
     right: -4em;
-    width: 920px;
-    height: 590px;
 }
 #hobbytext{
     position: fixed;
@@ -165,4 +163,8 @@ body{
     padding: 1em;
     font-size: 1vw;
     width: 50%;
+}
+#iframe{
+    width: 590px;
+    height: 920px;
 }
