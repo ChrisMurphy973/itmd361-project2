@@ -1,5 +1,6 @@
 p, li{ 
     color: #303030;
+    font-size: 0.75vw;
 }
 .default-font {
     font-family: 'Crimson Text', serif;
@@ -153,12 +154,13 @@ body{
     float: right;
     position: relative;
     right: -4em;
+    width: 920px;
+    height: 590px;
 }
 #hobbytext{
     position: fixed;
     background-color:#929292;
     padding: 1em;
-    font-size: 0.7em;
-    font-size: 0.8vw;
+    font-size: 1vw;
     width: 50%;
 }
