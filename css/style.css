@@ -155,7 +155,7 @@ body{
 .imagesr{
     float: right;
     position: relative;
-    right: -4em;
+    right: 25em;
 }
 #hobbytext{
     position: fixed;
