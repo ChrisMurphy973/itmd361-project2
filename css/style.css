@@ -98,7 +98,7 @@ body{
 }
 /* index */
 #robotimage{
-    float: right;
+    float: none;
     border-radius: 8px;
     position: relative;
     width: 1024px;
@@ -149,8 +149,8 @@ body{
 .image-container{
     float: right;
     position: relative;
-    height: auto;
-    width: 50%;
+    width: 590px;
+    height: 920px;
 }
 .imagesr{
     float: right;
@@ -163,8 +163,4 @@ body{
     padding: 1em;
     font-size: 1vw;
     width: 50%;
-}
-#iframe{
-    width: 590px;
-    height: 920px;
 }
