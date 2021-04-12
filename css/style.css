@@ -149,8 +149,8 @@ body{
 .image-container{
     float: right;
     position: relative;
-    width: 590px;
-    height: 920px;
+    width: 920px;
+    height: 590px;
 }
 .imagesr{
     float: right;
